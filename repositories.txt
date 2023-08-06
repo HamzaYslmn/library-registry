@@ -1,3 +1,4 @@
+https://github.com/Reefwing-Software/Reefwing-MPU6050
 https://github.com/Obsttube/CryptoAES_CBC
 https://github.com/nfc-rfid-reader-sdk/MFRC522_PN512
 https://github.com/andrewhe-princeton/Iridium-GPP
@@ -1659,6 +1660,7 @@ https://github.com/RobTillaart/LTC2991
 https://github.com/RobTillaart/LUHN
 https://github.com/RobTillaart/LineFormatter
 https://github.com/RobTillaart/M5ANGLE8
+https://github.com/RobTillaart/M5ROTATE8
 https://github.com/RobTillaart/M62429
 https://github.com/RobTillaart/MATRIX7219
 https://github.com/RobTillaart/MAX14661
@@ -6107,3 +6109,4 @@ https://github.com/IFRN-robotica-CM/CosmosNV2
 https://github.com/barbarossa12/sht3x-dis-arduino-lib
 https://bitbucket.org/jezhill/Keyhole
 https://github.com/epsilonrt/pimp
+https://github.com/ripred/Profiler
